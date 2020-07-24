@@ -1,4 +1,7 @@
-### Hi there 👋
+# Fillipe Romero
+
+[![Linkedin Badge](https://img.shields.io/badge/-Fillipe%20Romero-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filliperomero)](https://www.linkedin.com/in/filliperomero/) 
+[![Gmail Badge](https://img.shields.io/badge/-fillipe.romero@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fillipe.romero@gmail.com)](mailto:fillipe.romero@gmail.com)
 
 <!--
 **filliperomero/filliperomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
