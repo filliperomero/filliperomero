@@ -26,7 +26,7 @@ As I have a great interest and love for video games, I have been studying Game P
 <h4>Skills and Tools:</h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/node.png" alt=node width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/ts.png" alt=ts width="100" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/ts.png" alt=ts width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/react.png" alt=react width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/nextjs.svg" alt=nextjs width="100" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/tailwindcss.svg" alt=tailwindcss width="120" height="60"/>
