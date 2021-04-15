@@ -38,6 +38,7 @@ As I have a great interest and love for video games, I have been studying Game P
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/npm.png" alt=npm width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/docker.svg" alt=github width="60" height="60"/>
 </p>
 
 <h4>Databases:</h4>
