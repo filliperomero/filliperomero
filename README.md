@@ -12,7 +12,7 @@ As I have a great interest and love for video games, I have been studying Game P
 
 #### 🌱 Things I am currently working on:
 - I’m currently working on a **investment wallet website**
-- I'm currently learning more about **Switf**
+- I'm currently learning more about **Swift**
 - I’m currently learning more about games using **Unity and Unreal**
 - Inquiring more about **UX/UI**
 
