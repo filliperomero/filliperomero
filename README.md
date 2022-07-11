@@ -23,6 +23,12 @@ As I have a great interest and love for video games, I have been studying Game P
  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/java.svg" alt=java />
 </p>
 
+<h4>Gaming:</h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unity.svg" alt="unity" width="120" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unrealEngine.svg" alt="unreal" width="60" height="60"/>
+</p>
+
 <h4>Skills and Tools:</h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/node.png" alt=node width="60" height="60"/>
