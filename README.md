@@ -6,7 +6,7 @@
 ### I'm Fillipe Romero,
 A passioante fullstack developer with more than 7 years of extensive experience in Web Applications, API’s, Windows application, Windows services and systems in the cloud. B.A. in Computer Science and MBA in Solution Architecture. Excellent knowledge of NodeJS, C# and React. Versatile developer – with exceptional skills in various mediums. Dynamic and enthusiastic professional with the ability to work under pressure and independently. Extremely resourceful with excellent interpersonal skills.
 
-As I have a great interest and love for video games, I have been studying Game Programming in my spare time, mainly Unreal Engine (UE4/UE5) and Unity and development.
+As I have a great interest and love for video games, I have been studying Game Programming in my spare time, mainly Unreal Engine (UE4/UE5).
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -25,8 +25,8 @@ As I have a great interest and love for video games, I have been studying Game P
 
 <h4>Gaming:</h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unity.svg" alt="unity" width="120" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unrealEngine.svg" alt="unreal" width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unity.svg" alt="unity" width="120" height="60"/>
 </p>
 
 <h4>Skills and Tools:</h4>
