@@ -14,6 +14,7 @@ As I have a great interest and love for video games, I have been studying Game P
 - I'm currently learning more about games using **Unreal Engine 5** and **C++**
 - I’m currently working on a **investment wallet website**
 - Inquiring more about **UX/UI**
+- Inquiring more about **Blender**
 
 <h4>Programming Languages:</h4>
 <p align="left">
