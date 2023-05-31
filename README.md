@@ -18,50 +18,47 @@ As I have a great interest and love for video games, I have been studying Game P
 
 <h4>Programming Languages:</h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/js.png" alt=javascript width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/csharp.svg" alt=csharp width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/cplusplus.svg" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/java.svg" alt=java />
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/JavaScript.svg" alt=javascript width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/CS.svg" alt=csharp width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/CPP.svg" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/java.svg" alt=java width="60" height="60" />
 </p>
 
 <h4>Gaming:</h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unrealEngine.svg" alt="unreal" width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unity.svg" alt="unity" width="120" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unity.svg" alt="unity" width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools:</h4>
 <p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/node.png" alt=node width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/ts.png" alt=ts width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/react.png" alt=react width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/nextjs.svg" alt=nextjs width="100" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/tailwindcss.svg" alt=tailwindcss width="120" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/styledcomponents.png" alt=styledcomponents width="80" height="80"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/vue.svg" alt=vue width="60" height="55"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/html5.png" alt=html5 width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/css3.png" alt=css3 width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/yarn.png" alt=yarn width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/github.png" alt=github width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/NodeJS.svg" alt=node width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/TypeScript.svg" alt=ts width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/React.svg" alt=react width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/nextjs.svg" alt=nextjs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/tailwindcss.svg" alt=tailwindcss width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/StyledComponents.svg" alt=styledcomponents width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/VueJS.svg" alt=vue width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/HTML.svg" alt=html5 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/CSS.svg" alt=css3 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Git.svg" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Github.svg" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/GitLab.svg" alt=gitlab width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/docker.svg" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Prisma.svg" alt=prisma width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/AWS.svg" alt=aws width="60" height="60"/>
 </p>
 
 <h4>Databases:</h4>
 <p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/mongo.png" alt=mongodb width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/mysql.png" alt=mysql width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/psql.png" alt=psql width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/sql.svg" alt=sql width="100" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/MongoDB.svg" alt=mongodb width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/MySQL.svg" alt=mysql width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/PostgreSQL.svg" alt=psql width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Redis.svg" alt=redis width="60" height="60"/>
 </p>
 
 <h4>Desktop Environment:</h4>
 <p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/vsc.png" alt=vscode width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/slack.png" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/macos.png" alt=macos width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/VSCode.svg" alt=vscode width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Linux.svg" alt=linux width="60" height="60"/>
 </p>
