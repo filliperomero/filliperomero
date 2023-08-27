@@ -28,6 +28,7 @@ As I have a great interest and love for video games, I have been studying Game P
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unrealEngine.svg" alt="unreal" width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/unity.svg" alt="unity" width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Blender.svg" alt="Blender" width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools:</h4>
@@ -36,6 +37,11 @@ As I have a great interest and love for video games, I have been studying Game P
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/TypeScript.svg" alt=ts width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/React.svg" alt=react width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/nextjs.svg" alt=nextjs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Vite.svg" alt="Vite" width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Expressjs.svg" alt=Expressjs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Nestjs.svg" alt=Nestjs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Kafka.svg" alt=Kafka width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Graphql.svg" alt=Graphql width="60" height="60"/>  
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/tailwindcss.svg" alt=tailwindcss width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/StyledComponents.svg" alt=styledcomponents width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/VueJS.svg" alt=vue width="60" height="60"/>
@@ -55,10 +61,13 @@ As I have a great interest and love for video games, I have been studying Game P
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/MySQL.svg" alt=mysql width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/PostgreSQL.svg" alt=psql width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Redis.svg" alt=redis width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/DynamoDB.svg" alt=DynamoDB width="60" height="60"/>
 </p>
 
 <h4>Desktop Environment:</h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/VSCode.svg" alt=vscode width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/VisualStudio.svg" alt="Visual Studio" width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Linux.svg" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/filliperomero/filliperomero/master/icons/Postman.svg" alt=Postman width="60" height="60"/>
 </p>
