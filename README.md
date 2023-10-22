@@ -1,10 +1,15 @@
 # Hello there 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filliperomero/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.filliperomero.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fillipe.romero@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/filliperomero)
 
 ### I'm Fillipe Romero,
-A passioante fullstack developer with more than 8 years of extensive experience in Web Applications, API’s, Windows application, Windows services and systems in the cloud. B.A. in Computer Science and MBA in Solution Architecture. Excellent knowledge of NodeJS, C++, C# and React. Versatile developer – with exceptional skills in various mediums. Dynamic and enthusiastic professional with the ability to work under pressure and independently. Extremely resourceful with excellent interpersonal skills.
+A passionate fullstack and Game developer with more than 8 years of extensive experience in Web Applications, API's, Windows Applications, Test Automation, Windows Services, systems in the cloud and more recently, games with Unreal. B.A. in Computer Science and MBA in Solution Architecture. Excellent knowledge of Javascript/Typescript, C#, C++, Unreal, NodeJS, React, and other frameworks, languages and tools.
+
+Versatile and highly motivated professional that works well under pressure, independently or in collaboration with a team, always striving to learn more and provide mentorship when needed.
+
+With passion and creativity, I always take ownership of projects keeping in mind the best practices of software development to implement robust, performant and stable code and creating complex documents as reference to the future.
 
 As I have a great interest and love for video games, I have been studying Game Programming in my spare time, mainly Unreal Engine (UE4/UE5) for the last 2 years.
 
