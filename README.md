@@ -17,6 +17,7 @@ As I have a great interest and love for video games, I have been studying Game P
 
 #### 🌱 Things I am currently working on:
 - I'm currently learning more about games using **Unreal Engine 5** and **C++**
+- I'm currently learning more about **Niagara System**
 - I’m currently working on a **investment wallet website**
 - Inquiring more about **AI**
 - Inquiring more about **Blender**
