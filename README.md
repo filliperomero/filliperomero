@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/filliperomero)
 
 ### I'm Fillipe Romero,
-A passionate fullstack and Game developer with more than 9 years of extensive experience in Web Applications, API's, Windows Applications, Test Automation, Windows Services, systems in the cloud and more recently, games with Unreal. B.A. in Computer Science and MBA in Solution Architecture. Excellent knowledge of Javascript/Typescript, C#, C++, Unreal, NodeJS, React, and other frameworks, languages and tools.
+A passionate fullstack and Game developer with more than 10 years of extensive experience in Web Applications, API's, Windows Applications, Test Automation, Windows Services, systems in the cloud and more recently, games with Unreal. B.A. in Computer Science and MBA in Solution Architecture. Excellent knowledge of Javascript/Typescript, C#, C++, Unreal, NodeJS, React, and other frameworks, languages and tools.
 
 Versatile and highly motivated professional that works well under pressure, independently or in collaboration with a team, always striving to learn more and provide mentorship when needed.
 
