@@ -11,7 +11,7 @@ Versatile and highly motivated professional that works well under pressure, inde
 
 With passion and creativity, I always take ownership of projects keeping in mind the best practices of software development to implement robust, performant and stable code and creating complex documents as reference to the future.
 
-As I have a great interest and love for video games, I have been studying Game Programming in my spare time, mainly Unreal Engine (UE4/UE5) for the last 3 years.
+As I have a great interest and love for video games, I have been studying Game Programming in my spare time, mainly Unreal Engine (UE4/UE5) for the last 5 years.
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
